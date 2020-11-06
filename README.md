@@ -28,3 +28,15 @@ Once it has pulled from master it installs the dependencies form requirements.tx
 1. Settings page
 2. Upload page
 3. Sign up page
+#### Landing/Log in page
+![](/wireframes/Landing_Login Page.png)
+
+#### Dashboard
+![](/wireframes/Dashboard.png)
+
+#### New Mindmap
+![](/wireframes/A new mindmap.png)
+
+#### Sub-topic page
+![](/wireframes/Sub-topic page.png)
+
