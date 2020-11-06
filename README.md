@@ -29,14 +29,14 @@ Once it has pulled from master it installs the dependencies form requirements.tx
 2. Upload page
 3. Sign up page
 #### Landing/Log in page
-![](/wireframes/Landing_Login Page.png)
+![](/wireframes/Login.png)
 
 #### Dashboard
 ![](/wireframes/Dashboard.png)
 
 #### New Mindmap
-![](wireframes/A new mindmap.png)
+![](wireframes/NewMindmap.png)
 
 #### Sub-topic page
-![](/wireframes/Sub-topic page.png)
+![](/wireframes/Subtopic.png)
 
